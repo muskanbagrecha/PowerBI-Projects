@@ -12,7 +12,7 @@
 
 # Insights regarding release dates
 
-## Most views are garnered in the month of May which could be a good month for realising a new show. 
+## Most views are garnered in the month of May which could be a good month for releasing a new show. 
 
 ![image](https://user-images.githubusercontent.com/46674359/137109061-0c7a1791-0771-4ff4-a3bb-d0454efb5a02.png)
 
